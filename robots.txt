@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://claburef.github.io/sitemap.html.gz
+Sitemap: https://claburef.github.io/app/sitemap.html.gz
+Sitemap: https://claburef.github.io/assets/sitemap.html.gz
+Sitemap: https://claburef.github.io/css/sitemap.html.gz
+Sitemap: https://claburef.github.io/includes/sitemap.html.gz
+Sitemap: https://claburef.github.io/item/sitemap.html.gz
+Sitemap: https://claburef.github.io/src/sitemap.html.gz
